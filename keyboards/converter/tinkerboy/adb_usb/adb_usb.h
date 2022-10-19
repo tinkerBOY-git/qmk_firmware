@@ -45,7 +45,7 @@ Ported to QMK by Peter Roe <pete@13bit.me>
     k30, k0C, k0D, k0E, k0F, k11, k10, k20, k22, k1F, k23, k21, k1E, k2A,  k75, k77, k79,  k59, k5B, k5C, k4E, \
     k39, k00, k01, k02, k03, k05, k04, k26, k28, k25, k29, k27,      k24,                  k56, k57, k58, k45, \
     k38, k06, k07, k08, k09, k0B, k2D, k2E, k2B, k2F, k2C,           k7B,       k3E,       k53, k54, k55,\
-    k36, k3A, k37,           k31,                               k7C, k7D,  k3B, k3D, k3C,  k52,      k41, k4C \
+    k36, k3A, k37,           k31,                          XXX, k7C, k7D,  k3B, k3D, k3C,  k52,      k41, k4C \
 ) { \
     { k00, k01, k02, k03, k04, k05, k06, k07 }, \
     { k08, k09, XXX, k0B, k0C, k0D, k0E, k0F }, \
