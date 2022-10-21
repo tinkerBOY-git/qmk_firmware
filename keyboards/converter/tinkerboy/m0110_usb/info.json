@@ -5,7 +5,7 @@
   "maintainer": "TINKERBOY",
   "usb": {
     "vid": "0xFEED",
-    "pid": "0x0111",
+    "pid": "0x0110",
     "device_version": "1.0.2"
   },
   "layouts": {
