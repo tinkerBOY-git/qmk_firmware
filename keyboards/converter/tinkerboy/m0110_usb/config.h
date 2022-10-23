@@ -20,27 +20,6 @@ Ported to QMK by Techsock <info@techsock.com>
 */
 
 #pragma once
-#define DYNAMIC_KEYMAP_LAYER_COUNT 1
-#define NO_ACTION_LAYER
-
-#define BOOTMAGIC_LITE_ROW 1
-#define BOOTMAGIC_LITE_COLUMN 3
-
-#ifndef NO_DEBUG
-#define NO_DEBUG
-#endif // !NO_DEBUG
-#if !defined(NO_PRINT) && !defined(CONSOLE_ENABLE)
-#define NO_PRINT
-#endif // !NO_PRINT
-
-#define NO_ACTION_ONESHOT
-#define NO_MUSIC_MODE
-#undef LOCKING_SUPPORT_ENABLE
-#undef LOCKING_RESYNC_ENABLE
-#define LAYER_STATE_8BIT
-
-#define NO_ACTION_TAPPING
-
 /* matrix size */
 #define MATRIX_ROWS 14
 #define MATRIX_COLS 8

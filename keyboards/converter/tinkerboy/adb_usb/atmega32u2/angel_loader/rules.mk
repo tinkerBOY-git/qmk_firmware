@@ -1,6 +1,6 @@
 VIA_ENABLE = yes
 LTO_ENABLE = yes
-MCU = atmega16u2
+MCU = atmega32u2
 BOOTLOADER = angel-loader
 
 BOOTMAGIC_ENABLE = yes
