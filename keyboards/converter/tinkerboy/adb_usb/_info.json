@@ -1,7 +1,7 @@
 {
   "keyboard_name": "tinkerBOY [adb.usb]",
   "manufacturer": "TINKERBOY",
-  "url": "",
+  "url": "https://www.tinkerboy.xyz/",
   "maintainer": "tinkerBOY",
   "usb": {
     "vid": "0xFEED",
@@ -107,6 +107,7 @@
         {"label":"Alt", "x":1.5, "y":6, "w":1.25},
         {"label":"Command", "x":2.75, "y":6, "w":1.5},
         {"label":"Space", "x":4.25, "y":6, "w":6.5},
+		{"label":"Command", "x":10.75, "y":6, "w":1.5},
         {"label":"Alt", "x":12.25, "y":6, "w":1.25},
         {"label":"Ctrl", "x":13.5, "y":6, "w":1.5},
         {"label":"Left", "x":15.25, "y":6},
