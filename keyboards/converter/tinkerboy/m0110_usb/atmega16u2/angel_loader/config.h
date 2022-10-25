@@ -4,7 +4,7 @@
 #define PRODUCT_ID      0x0110
 #define DEVICE_VER      0x0102
 #define MANUFACTURER    TINKERBOY
-#define PRODUCT         tinkerBOY [adb.usb]
+#define PRODUCT         tinkerBOY [m0110.usb]
 
 #define VIAL_TAP_DANCE_ENTRIES 0
 #define VIAL_COMBO_ENTRIES 0
